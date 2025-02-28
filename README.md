@@ -8,7 +8,7 @@ Since WGANs were first introduced, there has been considerable debate about whet
 
 Specifically, we show that when the discriminator is convolutional, WGANs minimize the Wasserstein distance **between patches** in generated and training images rather than the distance between full images. Our results are obtained using **discrete generators**, where the Wasserstein distance between distributions can be computed exactly and analytically characterized. We present experiments demonstrating that discrete GANs can generate realistic images (comparable in quality to continuous counterparts) while minimizing the Wasserstein distance between patches rather than full images.  
 
-Results of a DiscretGAN (with prior of size 70K) trained on FFHQ (70K). The bottom lines show the nearest neighbors from the dataset.
+Below are results of a DiscretGAN (with prior of size 70K) trained on FFHQ (70K). The bottom lines show the nearest neighbors from the dataset.
 This tells us that descreteGAN are able to produce realistic results while being much more convenient to handle theoretically.
 
 [![2_FastGAN70K](https://github.com/user-attachments/assets/fcb65595-e87a-41c9-8c9a-4ef897dafe14)]
