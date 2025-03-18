@@ -2,7 +2,7 @@
 
 - [![ICLR 2025](https://img.shields.io/badge/ICLR-2025-blue)](https://iclr.cc/virtual/2025/poster/30814) Link to our paper on ICLR2025    
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ariel415el/DiscreteGANs/blob/ICLR2025/Lessons_from_discrete_GANs.ipynb) Reproduces the paper experiments.
-- [![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtub)](https://www.youtube.com/watch?v=BzZbO-thtrU) Video presentation
+- [![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtub)](https://youtu.be/j18swJd5iYI) Video presentation
 
 
 ## 📜 Abstract  
